@@ -20,8 +20,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100"/> </a>
 <h1 align="left">All Hard-Skills</h1>
-<h2 align="left">Web Languages</h2>
-<h3 align="left">Front-End</h3>
+<h2 align="left">Web Development</h2>
+<h3 align="left">Frontend Development</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
@@ -29,7 +29,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
 </p>
-<h3 align="left">Back-End</h3>
+<h3 align="left">Backend Development</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a>
@@ -42,7 +42,7 @@
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
 </p>
-<h2 align="left">Mobile Languages</h2>
+<h2 align="left">Mobile Development</h2>
 <p align="left">
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/></a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/></a>
@@ -69,5 +69,6 @@
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 </p>
-<h2 align="left">Used Languages</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsuaymeric&show_icons=true&theme=dark&locale=en&layout=compact" alt="monsuaymeric" /></p>
+<h2 align="left">My Stats</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsuaymeric&show_icons=true&theme=dark&locale=en&layout=compact" alt="monsuaymeric" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=monsuaymeric&show_icons=true&theme=dark&locale=en" alt="monsuaymeric" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monsuaymeric" alt="monsuaymeric" /></a> </p>
