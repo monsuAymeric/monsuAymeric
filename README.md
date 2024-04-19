@@ -71,4 +71,4 @@
 </p>
 <h2 align="left">My Stats</h2>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsuaymeric&show_icons=true&theme=dark&locale=en" alt="monsuaymeric" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=monsuaymeric&show_icons=true&theme=dark&locale=en" alt="monsuaymeric" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monsuaymeric" alt="monsuaymeric" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monsuaymeric" alt="monsuaymeric" /></a> </p>
